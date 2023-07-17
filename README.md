@@ -13,3 +13,7 @@ Error: "No module named pip"
 Try this command: 
 - python -m ensurepip 
 
+# Get your public IP address with command line
+
+curl ifconfig.me
+
